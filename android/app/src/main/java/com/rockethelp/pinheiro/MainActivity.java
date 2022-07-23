@@ -1,4 +1,4 @@
-package com.rockethelp;
+package com.rockethelp.pinheiro;
 
 import android.os.Build;
 import android.os.Bundle;
